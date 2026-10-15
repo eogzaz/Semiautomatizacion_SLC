@@ -1,0 +1,192 @@
+87563	-(marginal)
+118826	- 
+55514	++
+18486	+
+8976	+ 
+8189 	+
+6221	+
+2525	doble_pendiente	
+2177	-(marginal)
+1956	+(toda_la_orbita)
+1805	+
+1581	ondulación	
+1438	+
+1340	+
+1261	+
+1253	+
+1074	+
+1027	ondulación
+846	marginal
+561	+	
+555	+ondulación
+383	doblefase
+379	+
+316	ondulación
+90	marginal
+24	-
+197402	+
+345558 	+
+241908	-
+241050 	+marginal
+228255	-
+173991 	+
+173974	+
+173140	+
+171677	+
+141240 	+marginal
+113117 	+
+
+105774	+
+105047	-
+105026	+
+74421	marginal
+65191	-
+62854	+
+52854	+
+57560	+
+40003	ondulación
+39339	++
+38533	marginal
+34426	++
+33764	+ 
+30670	marginal
+28895	++
+27921	+
+18852	++
+16228	problemático
+16115	ondulante
+11946	ondulante
+11776	marginal
+10121	+
+8906	-ejemplo
+7452	+
+7270	-
+6353	+(quitar oposición 5°)
+5854	+(quitar oposición 5°)
+5088	+
+4741	-
+4385	+
+4334	marginal
+4242	+
+3899	+
+3790	+quitar oposición 5°)
+3785	problemático
+3615	marginal
+3186	+(no oposición)
+3174	+
+2981	+marginal
+2781	-
+2769	+
+2757	+marginal
+2708	doblependiente
+2659	+
+2627	+
+2563	ondulación
+2524	ondulación
+2464	+(quitar hasta 4°)
+2450	-
+
+2297	marginal
+2296	++
+2270	-
+2264	++
+2250	++
+2248	-
+2228	+
+2222	+ (quitar 3°)	
+2217	-
+2203	+(color)
+2197	-
+2182	+
+2165	-
+2114	+
+2058	+(quitar 3°)
+2009	+
+1939	problemático
+1782	marginal
+1778	+
+1764	+(quitar 3°)
+1761	+(quita 3°)
+1691	-
+1687	-
+1674	+
+1669	ondulación
+1623	+
+1615	+
+1542	ondulación baja
+1489	+
+1487	+
+1462	+	
+996	-
+988	+ (quitar 3°)
+981	+
+954	ondulacion
+946	+ (quitan5°)
+936	pendientedual
+710	-
+526	+
+468	+
+268	marginal
+222	-
+171	+
+104	+
+62	+
+
+223 	ondulante
+431	ondulante
+492	ondulante
+621	negativo
+656	+
+938	ondulante
+1003	marginal
+1061 	negativo
+1073	+
+1082	ondulante
+1259	-
+1302	ondulante
+1788	++
+1815	+
+2046	+
+2293	+
+2324	+
+2882	+
+2986	++	
+3525	ondulante
+3597	ondulante
+3618	+
+4174	+
+4758	+
+5036	+
+7454	ondulante
+13533 	doblependiente
+28895	+
+32282	+
+77829	ondulacion
+1576	+
+1633	++
+1778	+
+5770	+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
